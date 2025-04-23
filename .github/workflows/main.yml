@@ -1,1 +1,18 @@
+Vidun@DESKTOP-N9RGPKR MINGW64 /d/GIT TEST TODAY/GIT-TES (main)
+$ git pull
+From https://github.com/Vidun162/GIT-TES
+ * [new branch]      development -> origin/development
+ * [new branch]      live        -> origin/live
+ * [new branch]      uat         -> origin/uat
+Already up to date.
 
+Vidun@DESKTOP-N9RGPKR MINGW64 /d/GIT TEST TODAY/GIT-TES (main)
+
+
+$ git checkout development
+
+
+Switched to brah 'development'
+
+
+Your branch is up to date with 'origin
