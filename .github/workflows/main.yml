@@ -1,3 +1,7 @@
+on:
+  workflow_dispatch:
+
+
 Vidun@DESKTOP-N9RGPKR MINGW64 /d/GIT TEST TODAY/GIT-TES (main)
 $ git pull
 From https://github.com/Vidun162/GIT-TES
